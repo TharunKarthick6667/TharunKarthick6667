@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tharun Karthick ARK</h1>
 <h3 align="center">A passionate Data Science enthusiastic from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/24b65dce7c66e8a710d2a5f7c9db1a40815eee070c734e38a2baf819d04e89ce/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39382f32652f33652f39383265336533373031323637393461643838613034616639373335303637392e676966">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharunkarthick6667&label=Profile%20views&color=0e75b6&style=flat" alt="tharunkarthick6667" /> </p>
 
 - 📫 How to reach me **tharun.vnrkarthi@gmail.com**
